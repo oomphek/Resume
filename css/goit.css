@@ -70,7 +70,7 @@ width: 100%;
    .front {
     max-width: 250px;
    }
-   .projects {
+   .projects>ol {
     max-width: 250px;
    }
    .education {

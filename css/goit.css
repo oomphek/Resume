@@ -90,7 +90,7 @@ width: 370px;
      
     }
     .main_left {
-     width: 500px;
+     width: 400px;
     }
     .main_img {
  width: 100%;
@@ -120,10 +120,11 @@ width: 370px;
     margin-top: 51px;
     margin-left: 40px;
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 750px) {
     .main {
-        border: 20px solid #E5E5E5;
+        border: none;
         flex-wrap: wrap;
+        padding: 20px;
     }
     .main_left {
         width: auto;
